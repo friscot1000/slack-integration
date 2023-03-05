@@ -13,7 +13,7 @@ Start the server by running - `php artisan serve --port=8080`
 Endpoint
 =======================================================
 
-Using POST man call `http://localhost:8080/api/email/spam`
+Using Postman call `POST http://localhost:8080/api/email/spam`
 
 Pass the following payload 
 ````
